@@ -1,0 +1,20 @@
+.content{
+  border: 1px solid rebeccapurple;
+  padding: 50px;
+  cursor: pointer;
+}
+#content-dark-mode{
+    margin-top: 50px;
+    cursor: pointer;
+}
+body{
+    font-family: sans-serif;
+}
+body.dark{
+    background-color: black;
+    color: white;
+}
+.content.dark{
+    background-color: black;
+    color: white; 
+}
